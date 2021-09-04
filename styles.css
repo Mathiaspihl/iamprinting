@@ -4,6 +4,10 @@ body {
   margin: 0;
   padding: 0;
   background: lighten(#3a4043, 15%);
+  
+}
+.main{
   font-family: 'Poppins', sans-serif;
   letter-spacing: 10px;
+
 }
