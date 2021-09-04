@@ -1,12 +1,13 @@
 
 html,
 body {
-  margin: 0;
-  padding: 0;
-  background: lighten(#3a4043, 15%);
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
   
 }
-.main{
+.maintext{
   font-family: 'Poppins', sans-serif;
   letter-spacing: 2px;
 
